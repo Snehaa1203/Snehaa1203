@@ -25,7 +25,7 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I am a Student, pursuing BTECH IT
+### I am an Engineering student,pursuing BTECH in IT
 
 -   🔭 I’m currently learning Backend Development and Data Science:grin:
 -   👯 I’m looking to collaborate with other Developers :wink:
